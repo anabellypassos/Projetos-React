@@ -22,7 +22,8 @@ Aqui estão alguns dos meus projetos em React:
 <details>
   <summary><strong>Clique aqui:</strong></summary>
 
-  1. [Nome do Projeto 1](link-para-o-projeto-1): Breve descrição do projeto.
+  1. [Buscador de CEP](https://github.com/anabellypassos/Buscador-de-CEP.git): 
+🌟O "Buscador de CEP com React" é um projeto web utiliza a biblioteca React para criar uma aplicação eficiente e amigável. Destacando-se por uma interface intuitiva, autocompletar inteligente, visualização dinâmica de resultados e integração com uma API de CEP confiável, o projeto proporciona uma experiência de busca de CEP rápida e precisa. 🌟
 
   2. [Nome do Projeto 2](link-para-o-projeto-2): Breve descrição do projeto.
 
